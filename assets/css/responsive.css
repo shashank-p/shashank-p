@@ -1,0 +1,161 @@
+@media only screen and (max-width:991px) {
+	#main-menu {
+		margin-top: 3px;
+	}
+	.slider-content h1 {
+		font-size: 40px;
+	}
+	.slider-content p {
+		font-size: 16px;
+	}
+	.single-about {
+		margin-bottom:25px;
+	}
+	.counter-items {
+		margin-bottom: 25px;
+	}
+	.skill_content{
+		margin-bottom: 25px;
+	}
+	.single-team{
+		margin-bottom:25px;
+	}
+	.pricingTable{
+		margin-bottom:25px;
+	}
+	.buy-now h4{
+		line-height: 35px;
+	}
+	.buy-now button {
+		margin-top: 40px;
+	}
+	.testimonial .description::before {
+		padding: 0 15px 121px 0;
+	}
+	.contact{
+		margin-bottom:25px;
+	}
+	.address-area{ 
+		border: 3px solid #eee;
+		padding: 21px;
+		line-height: 23px;
+	}
+	
+}
+@media only screen and (max-width:767px) {
+	#main-menu {
+		margin-top: 3px;
+	}
+	.particles-section .content-heading h2 {
+		font-size: 45px;
+		line-height: 55px;
+	}
+	.slider-content h1 {
+		font-size: 43px;
+	}
+	.slider-content p {
+		font-size: 17px;
+	}
+	.single-about {
+		margin-bottom:25px;
+	}
+	.counter-items {
+		margin-bottom: 25px;
+	}
+	.single-choose {
+		margin-bottom: 25px;
+	}
+	.skill_content{
+		margin-bottom: 25px;
+	}
+	.buy-now h4{
+		line-height: 35px;
+		text-align:center;
+	}
+	.buy-now p{
+		text-align:center;
+	}
+	.buy-now button {
+		margin-top: 40px;
+	}
+	.testimonial .description::before {
+		padding: 0 15px 121px 0;
+	}
+	.contact{
+		margin-bottom:25px;
+	}
+
+}
+
+@media only screen and (max-width:480px){
+	
+	.slider-content h1 {
+		font-size: 35px;
+		line-height:40px;
+	}
+	.particles-section .content-heading h2 {
+		font-size: 22px;
+		line-height: 28px;
+	}
+	.particles-section .content-heading a{
+		margin-top:0;
+	}
+	.particles-section .content-heading p {
+		font-size: 16px;
+	}
+	.slider-content p {
+		font-size: 15px;
+	}
+	.single-about {
+		margin-bottom:20px;
+	}
+	.single-choose {
+		margin-bottom: 25px;
+	}
+	.counter-items {
+		margin-bottom: 25px;
+	}
+	.skill_content{
+		margin-bottom: 25px;
+	}
+	.contact{
+		margin-bottom:20px;
+	}
+	.slider-active .owl-nav .owl-next, .slider-active .owl-nav .owl-prev {
+		display: none;
+	}
+
+ }
+
+@media only screen and (max-width:479px){
+	.buy-now{
+		text-align:center;
+	}
+	.buy-now h4{
+		line-height: 35px;
+	}
+	.testimonial .description::before {
+		padding: 0 15px 330px 0;
+	}
+	.btn-home-bg {
+		padding: 13px 11px;
+		margin-bottom:12px;
+		margin-right: 0px;
+	}
+	.btn-home-border {
+		padding: 13px 20px;
+		margin-bottom:12px;
+	}
+	.slider-content h1 {
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.signup_form input {
+		width: 324px!important;
+	}
+}
+@media only screen and (max-width:320px){
+	.signup_form input {
+		width: 280px!important;
+	}
+}
